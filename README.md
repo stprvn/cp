@@ -1,2 +1,1 @@
-# cp
-cardio
+# Just my competitive programming cardio
