@@ -1,1 +1,1 @@
-# Just my competitive programming cardio
+# contain practice and cp contest code
