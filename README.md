@@ -1,1 +1,1 @@
-# contain practice and cp contest code
+# contains some projects and cp practices
