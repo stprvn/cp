@@ -1,1 +1,1 @@
-# contains some projects and cp practices
+# contains cp practices
